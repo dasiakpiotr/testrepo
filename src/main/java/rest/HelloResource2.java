@@ -15,7 +15,10 @@ public class HelloResource2 {
 	@GET
 	@Produces("text/plain")
 	public String helloResource() {
-		// logger.info("jhab");
+
+		String a = "a";
+		String b = "b";
+
 		return "Hello! It's " + new Date();
 	}
 }

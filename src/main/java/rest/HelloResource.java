@@ -20,6 +20,9 @@ public class HelloResource {
 		Properties properties = new Properties();
 		properties.put(REMOVED);
 
+		String a = "a";
+		String b = "b";
+
 		return "Hello! It's " + new Date();
 	}
 }
