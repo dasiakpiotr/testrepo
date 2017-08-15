@@ -1,0 +1,7 @@
+*.classpath
+*target
+*.settings
+.*project
+
+#Project files
+[Bb]uild/
