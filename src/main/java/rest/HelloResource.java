@@ -29,6 +29,9 @@ public class HelloResource {
 		String e = "e";
 		String f = "f";
 
+		String g = "g";
+		String h = "h";
+
 		return "Hello! It's " + new Date();
 	}
 }
