@@ -36,7 +36,7 @@ public class HelloResource {
 		String j = "j";
 
 		String k = "k";
-		String l = "l";
+		String m = "m";
 
 		return "Hello! It's " + new Date();
 	}
