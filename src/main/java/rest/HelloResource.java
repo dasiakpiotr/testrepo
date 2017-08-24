@@ -18,7 +18,7 @@ public class HelloResource {
 	public String helloResource() {
 
 		Properties properties = new Properties();
-		properties.put("password", "password1");
+		properties.put("password", "x");
 
 		String a = "a";
 		String b = "b";
