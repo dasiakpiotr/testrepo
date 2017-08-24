@@ -32,6 +32,9 @@ public class HelloResource {
 		String g = "g";
 		String h = "h";
 
+		String i = "i";
+		String j = "j";
+
 		return "Hello! It's " + new Date();
 	}
 }
